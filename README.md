@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpendra1001" alt="pushpendra1001" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Java , DSA , React**
+- 🌱 I’m currently learning ** Java , React**
 
 - 💬 Ask me about **CyberSecurity**
 

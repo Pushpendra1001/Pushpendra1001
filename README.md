@@ -21,6 +21,6 @@ I'm learning Python <br>Happy to get knowledge about technology 😉 <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pushpendra1001&icon=7&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pushpendra1001&label=291&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -14,7 +14,7 @@ I'm learning Python <br>Happy to get knowledge about technology 😉 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pushpendra1001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpendra1001&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
-## 🐦 Latest Tweet
+<!-- ## 🐦 Latest Tweet -->
 <!-- [![](https://gtce.itsvg.in/api?username=https://twitter.com/PSYCHO__HITMAN)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote

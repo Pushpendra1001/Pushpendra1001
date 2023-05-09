@@ -1,4 +1,4 @@
-<h1 align='center'>Heyy I'm Pushpendra Baswal </h1> 
+<h1 align='center'>Heyy I'm Pushpendra  </h1> 
 <br>
 # 💫 About Me:
 I'm learning Python <br>Happy to get knowledge about technology 😉 <br>

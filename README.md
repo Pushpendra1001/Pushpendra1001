@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter<br>💬 Ask me about : Latest Tech , Cyber Security , Hacking <br>⚡ Fun fact : I think We are 1001<br>👩‍💻 How to Reach me linkedin : @PushpendraBaswal<br>
+💬 Ask me about : App Developent , Latest Tech , Cyber Security , Hacking <br>⚡ fun Fact : Always think why you start... <br>👩‍💻 How to Reach me linkedin : @PushpendraBaswal<br>
 
 
 ## 🌐 Socials:

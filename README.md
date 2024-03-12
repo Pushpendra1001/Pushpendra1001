@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about : App Developent , Latest Tech , Cyber Security , Hacking <br>⚡ fun Fact : Always think why you start... <br>👩‍💻 How to Reach me linkedin : @PushpendraBaswal<br>
+💬 Ask me about : App Developent , Latest Tech , Web Development <br>⚡ fun Fact : Always think why you start... <br>👩‍💻 How to Reach me linkedin : @PushpendraBaswal<br>
 
 
 ## 🌐 Socials:
